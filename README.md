@@ -1,100 +1,127 @@
-<!-- Cute and aesthetic profile README for eeneha -->
+<!-- Super cute animated profile README for eeneha -->
 
-<!-- Adorable Header with animated sparkles -->
+<!-- Floating sparkles animation at the top -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa6d9&height=170&section=header&text=✨%20Welcome%20to%20my%20space!%20✨&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="100%">
 </div>
 
-<!-- Cute animated greeting -->
-<h1 align="center">
-  Hi there! I'm Eeneha 🌸
-  <br>
-  <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="200px" alt="Cute Cat Typing">
-</h1>
-
-<!-- Adorable typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=25&duration=2500&pause=800&color=FFA6D9&center=true&vCenter=true&width=500&lines=Software+Developer+👩‍💻;Spreading+Happiness+Through+Code+💝;Making+The+Web+Prettier+🎀;Love+Learning+New+Things+✨" alt="Typing SVG">
-</p>
-
----
-
-<!-- About Me Section with cute emojis -->
-<h3 align="center">🌟 About Me 🌟</h3>
-
-<p align="center">
-  🎮 Gaming enthusiast by night<br>
-  🌈 Creating colorful digital experiences<br>
-  🐱 Cat lover & code writer<br>
-  🍜 Ramen aficionado<br>
-  💖 Spreading positivity through technology
-</p>
-
-<!-- Cute divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%">
-
-<!-- Stats with pastel theme -->
+<!-- Rainbow animated header -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeneha&theme=date-night&hide_border=true&background=FFF5FA&stroke=FFA6D9&ring=FFA6D9&fire=FFB6C1&currStreakNum=FF89BB&sideNums=FF89BB&currStreakLabel=FF89BB&sideLabels=FF89BB&dates=FF89BB" width="49%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=✨%20Welcome%20to%20my%20magical%20space!%20✨&fontSize=35&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+
+<!-- Cute animated mascots -->
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  <h1>Hi there, I'm Eeneha! 
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  </h1>
+</div>
+
+<!-- Bouncing typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7A4F2&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Spreading+Magic+Through+Code+%E2%9C%A8;Making+Dreams+Come+True+%F0%9F%8C%88;Always+Learning+%F0%9F%8C%B1;Love+Creating+Cute+Things+%F0%9F%92%95" alt="Typing SVG">
+</div>
+
+<!-- Floating animation for about section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
+  <h2>About Me 💖</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=eeneha&show_icons=true&bg_color=FFF5FA&title_color=FFA6D9&text_color=FF89BB&icon_color=FFA6D9&hide_border=true" width="49%" />
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50" /> Creating cute code!<br>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /> Building magical projects<br>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="50" /> Learning new technologies<br>
+  <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="50" /> Sharing knowledge with others
 </div>
 
-<!-- Cute divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%">
+<!-- Sparkling divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Tech Stack with cute styling -->
-<h3 align="center">🎀 My Favorite Tools 🎀</h3>
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-FFA6D9?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFA6D9?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FFA6D9?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-FFA6D9?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-FFB6C1?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-<!-- Cute divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%">
-
-<!-- Fun activity graph -->
-<h3 align="center">✨ My Coding Activity ✨</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeneha&bg_color=FFF5FA&color=FFA6D9&line=FFB6C1&point=FF89BB&area=true&hide_border=true" width="100%">
-</p>
-
-<!-- Social Links with cute styling -->
-<h3 align="center">🌸 Let's Be Friends 🌸</h3>
-
-<p align="center">
-  <a href="https://github.com/eeneha"><img src="https://img.shields.io/badge/GitHub-FFA6D9?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/eeneha"><img src="https://img.shields.io/badge/LinkedIn-FFA6D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:eeneha@example.com"><img src="https://img.shields.io/badge/Email-FFA6D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<!-- Cute animated visitor counter -->
+<!-- Animated stats section -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/eeneha/count.svg"/>
-  <br>
-  <i>Thanks for visiting! Have a lovely day! 🌸</i>
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    My GitHub Stats
+  </h2>
+  
+  <!-- Animated stats cards -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeneha&theme=material-palenight&hide_border=true&background=FFFFFF00" alt="streak"/>
+  </p>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=eeneha&theme=dracula&no-frame=true&no-bg=true&row=1" width="100%"/>
+  </p>
 </div>
 
-<!-- Cute footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffa6d9&height=170&section=footer"/>
+<!-- Animated snake contribution graph -->
+<div align="center">
+  <img src="https://github.com/eeneha/eeneha/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
 
-<!-- Cute ASCII art -->
+<!-- Tech stack with floating animations -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+    My Tech Stack
+  </h2>
+  
+  <!-- Animated tech badges -->
+  <p>
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+  </p>
+</div>
+
+<!-- Cute social links with animations -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="50">
+    Let's Connect!
+  </h2>
+  
+  <!-- Animated social badges -->
+  <a href="https://github.com/eeneha">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;">
+  </a>
+  <a href="mailto:eeneha@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;">
+  </a>
+</div>
+
+<!-- Animated visitor count -->
+<div align="center">
+  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100">
+  <br>
+  <img src="https://profile-counter.glitch.me/eeneha/count.svg" />
+  <br>
+  Visitors Count
+</div>
+
+<!-- Bottom wave animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="100%">
+  
+  <!-- Cute animated footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&animation=twinkling"/>
+</div>
+
+<!-- Floating hearts animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br>
+  <b>I love connecting with different people!</b>
+</div>
+
+<!-- Cute animated ASCII cat -->
 <div align="center">
   
 ```
-  ／l、    
-（ﾟ､ ｡ ７  
-  l  ~ヽ   
-  じしf_,)ノ
+  |\---/|       ╱|、
+  | o_o |      (˚ˎ 。7  
+   \_^_/        |、˜〵          
+           じしˍ,)ノ
 ```
-
+  <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30">
 </div>
